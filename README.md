@@ -1,2 +1,3 @@
-# SWGProfessionCalculator
-React based SWGEMU Profession Calculator
+# SWG Profession Calculator
+
+This project is a replica of the original SWG Profession Calculator.
