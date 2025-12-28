@@ -17,7 +17,7 @@ function ActiveSkillModifiers({activeSkill}) {
   return (
     <Container className="activeSkillModifiers">
         <h2>Skill Modifiers</h2>
-        {xp !== 0 ? <p>This skill box requires {xp.toLocaleString()} of {xpType} xp.</p> : <p>This skill box required no xp</p>}
+        {xp !== 0 ? <p>This skill box requires {xp.toLocaleString()} of {xpType} XP.</p> : <p>This skill box requires no XP.</p>}
         <div className="innerContainer">
             {sortedMods.map(item => {
             return (

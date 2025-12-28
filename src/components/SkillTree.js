@@ -67,7 +67,7 @@ function SkillTree({
         </div>
         <div>
           <button onClick={() => handleSkillChange({ action: 'reset' })}>
-            Reset Char
+            RESET
           </button>
         </div>
       </div>
