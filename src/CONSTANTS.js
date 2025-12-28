@@ -12065,11 +12065,11 @@ export const SKILLS = {
   force_sensitive_crafting_mastery_novice: {
     title: "",
     skillPoints: 0,
-    preReqs: [""],
+    preReqs: [],
     xp: { id: "fs_crafting", cost: 50000 },
-    commands: [""],
+    commands: [],
     skillModifiers: {},
-    schematics: [""],
+    schematics: [],
   },
   force_sensitive_crafting_mastery_master: {
     title: "",
